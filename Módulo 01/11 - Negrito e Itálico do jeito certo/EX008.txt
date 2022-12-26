@@ -1,0 +1,6 @@
+comando para tag I, presiza selecionar o texto a ser usado(visual s code) "abb" na barra de pesquisa do vsc
+
+CTRL+SHIFT+P = italico 
+
+.............
+CTRL+SHIFT+P + ENTER + P + ENTER

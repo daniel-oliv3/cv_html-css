@@ -1,0 +1,4 @@
+tag e dicas
+
+./ = na pasta atual
+../ = pasta anterior

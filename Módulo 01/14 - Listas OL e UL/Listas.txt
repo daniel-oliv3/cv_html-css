@@ -1,0 +1,10 @@
+tags
+
+- ol
+ listas ordenadas,...(parametros type referice ao tipo de lista... 1, a, A, i, I,)parametro start="4", numero da lista inicia a partir do numero 4
+
+- li
+ intem de uma (lista) dentro de ol, </li> não e preiso apartir do html5
+
+- ul
+ listas não ordenadas

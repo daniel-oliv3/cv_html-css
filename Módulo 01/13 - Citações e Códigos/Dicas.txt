@@ -1,0 +1,32 @@
+fonte mono-espaçada
+
+envelopar
+ctrl+shift+p + enter + code + enter
+
+tags
+- code
+ para colocar trexos de codigo
+
+- pre
+ reconhece todos os espaços em branco e quebras de linha
+
+- q 
+ tag para sitação("sitações") " "
+
+- blockquote
+ tag para sitações em bloco (sitações muito longa como links etc..) para direitos autorais, citações de textos e livros
+
+- abbr
+ tag para Abreviações, quando passa o curso do mouse no texto aparace a texto completo. (mostra a sigla completa)
+
+- bdo
+ tag para inverter o texto de tras para frente(utilizando o parametro dir"") o rtl mostra invertido, o ltr mostra normalmente
+ 
+
+
+
+...........................................................
+
+teclas de atalho
+
+shift + tab = voltar indentação de um texto pre selecionado

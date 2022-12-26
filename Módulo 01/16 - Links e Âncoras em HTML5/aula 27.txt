@@ -1,0 +1,11 @@
+Tags
+
+- a
+ ancora para links etec...
+
+
+parametros
+
+target  _blank = para abrir uma aba ao clicar no link
+
+ rel-external = indica ao navegador e um link externo
